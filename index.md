@@ -6,3 +6,10 @@ The BAfH is based on the BOfH, the Bastard Operator from Hell, which was created
 
 Besides the "Original BAfH" author, there are others, such as the BSfK (Bastard Student from Kiel, alias Hauke Goos-Habermann), who publish stories that take place in the BAfH universe. 
 
+## BAFH traits
+
+* satiric
+* uses excuses like BOFH
+* do not like DAUs
+
+
