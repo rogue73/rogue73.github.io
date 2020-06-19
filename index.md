@@ -13,3 +13,4 @@ Besides the "Original BAfH" author, there are others, such as the BSfK (Bastard 
 * do not like DAUs
 
 
+> Development of an algorithm for phase-synchronized re-routing function within the third layer of the iso-layer model
