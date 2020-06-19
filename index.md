@@ -14,3 +14,5 @@ Besides the "Original BAfH" author, there are others, such as the BSfK (Bastard 
 
 
 > Development of an algorithm for phase-synchronized re-routing function within the third layer of the iso-layer model
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/BAfH-Ausredenkalender-2008.png"/>
